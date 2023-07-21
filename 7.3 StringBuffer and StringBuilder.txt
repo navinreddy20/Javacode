@@ -1,3 +1,4 @@
+//String buffer and string builder is mutable
 class Demo {
 	public static void main(String[] args) 
 	{
