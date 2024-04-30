@@ -49,7 +49,7 @@ public class Demo {
 		nums[2]=3;
 		nums[3]=9;
 		
-//		for (int i=0;i<nums/length;i++)
+//		for (int i=0;i<nums.length;i++)
 //		{
 //			System.out.println(nums[i]);
 //		}
